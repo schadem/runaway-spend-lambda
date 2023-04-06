@@ -1,4 +1,4 @@
-This sample demonstrates and ERROR! Be careful, don't deploy unless you know exactly what you are doing.
+This sample demonstrates an ERROR! Be careful, don't deploy unless you know exactly what you are doing.
 
 ############################################################
 
